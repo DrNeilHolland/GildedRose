@@ -1,0 +1,20 @@
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\GildedRoseItinerary.exe.config
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\GildedRoseItinerary.exe
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\GildedRoseItinerary.pdb
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.csprojResolveAssemblyReference.cache
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.ItineraryForm.resources
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.Properties.Resources.resources
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.csproj.GenerateResource.Cache
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.exe
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.pdb
+c:\users\drnei\documents\visual studio 2015\Projects\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\TestInput.txt
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\GildedRoseItinerary.exe.config
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.exe
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.pdb
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\TestInput.txt
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\GildedRoseItinerary.exe
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\bin\Debug\GildedRoseItinerary.pdb
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.csprojResolveAssemblyReference.cache
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.ItineraryForm.resources
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.Properties.Resources.resources
+C:\Users\drnei\Desktop\GildedRoseItinerary\GildedRoseItinerary\obj\Debug\GildedRoseItinerary.csproj.GenerateResource.Cache
