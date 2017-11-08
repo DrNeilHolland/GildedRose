@@ -6,7 +6,8 @@ Winform application written by Neil Holland on 08/11/2017
 The application is written in C#
 It uses external libraries for NUnit.
 
-The source code can be downloaded from Github and run in Visual Studio.
+The source code can be downloaded from Github at https://github.com/DrNeilHolland/GildedRose
+and run in Visual Studio.
 Open Visual Studio, then from the menu select File->Open->Project/Solution, 
 then navigate to the downloaded solution file GildedRoseItinerary.sln and click OK.
 The code must be compiled first, from the menu select Build->Build Solution.
